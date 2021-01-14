@@ -1,1 +1,2 @@
-# spotifyactivity
+# Spotify Activity Discord
+# 
