@@ -1,0 +1,19 @@
+{
+  "name": "spotifyactivity",
+  "version": "1.0.0",
+  "description": "spotify acitvity ",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spotifyactivity"
+  ],
+  "author": "nullek",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
